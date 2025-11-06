@@ -108,20 +108,7 @@
     </div>
   </section>
 
-  <!-- FAQ Section -->
-  <section class="bg-blue-50 py-16 px-4">
-    <h3 class="text-3xl font-semibold text-center text-blue-700 mb-10">Frequently Asked Questions</h3>
-    <div class="max-w-3xl mx-auto space-y-4">
-      <details class="bg-white p-4 rounded-lg shadow">
-        <summary class="font-semibold cursor-pointer">When is the submission deadline?</summary>
-        <p class="mt-2 text-gray-700">The submission deadline is 30th November 2025.</p>
-      </details>
-      <details class="bg-white p-4 rounded-lg shadow">
-        <summary class="font-semibold cursor-pointer">Can I edit my submission later?</summary>
-        <p class="mt-2 text-gray-700">Yes, you can log in to edit your internship details anytime before the deadline.</p>
-      </details>
-    </div>
-  </section>
+ 
 
   <!-- Testimonials -->
   <section class="py-16 px-4 bg-white">

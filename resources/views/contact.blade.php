@@ -46,7 +46,7 @@
       <div class="bg-blue-50 p-6 rounded-lg shadow">
         <div class="text-4xl text-blue-600 mb-3">🏢</div>
         <h4 class="font-bold text-lg mb-2">Office Location</h4>
-        <p>Main Campus ICT Building, Room 204</p>
+        <p>MUBS Main Campus ADB Building, Room 204</p>
       </div>
       <div class="bg-blue-50 p-6 rounded-lg shadow">
         <div class="text-4xl text-blue-600 mb-3">⏰</div>
@@ -66,11 +66,11 @@
           <input type="text" class="w-full border rounded-md px-3 py-2 focus:outline-blue-500" placeholder="John Doe" required>
         </div>
         <div>
-          <label class="block text-sm font-medium mb-1">Email</label>
+          <label class="block text-sm font-medium mb-1">School Email</label>
           <input type="email" class="w-full border rounded-md px-3 py-2 focus:outline-blue-500" placeholder="you@example.com" required>
         </div>
         <div>
-          <label class="block text-sm font-medium mb-1">Registration Number (Optional)</label>
+          <label class="block text-sm font-medium mb-1">Registration Number </label>
           <input type="text" class="w-full border rounded-md px-3 py-2 focus:outline-blue-500" placeholder="REG12345">
         </div>
         <div>

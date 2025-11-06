@@ -54,34 +54,7 @@
     </div>
   </section>
 
-  <!-- How It Works Section -->
-  <section class="bg-blue-50 py-16 px-4">
-    <div class="max-w-5xl mx-auto text-center">
-      <h3 class="text-3xl font-semibold text-blue-700 mb-10">How It Works</h3>
-      <div class="grid md:grid-cols-4 gap-8">
-        <div class="bg-white p-6 rounded-lg shadow">
-          <div class="text-4xl mb-3">📝</div>
-          <h4 class="text-xl font-bold mb-2">Step 1</h4>
-          <p>Students log in and fill out their internship details accurately.</p>
-        </div>
-        <div class="bg-white p-6 rounded-lg shadow">
-          <div class="text-4xl mb-3">📤</div>
-          <h4 class="text-xl font-bold mb-2">Step 2</h4>
-          <p>Submit the information for verification by the supervisor.</p>
-        </div>
-        <div class="bg-white p-6 rounded-lg shadow">
-          <div class="text-4xl mb-3">🔍</div>
-          <h4 class="text-xl font-bold mb-2">Step 3</h4>
-          <p>Track your internship progress and receive announcements.</p>
-        </div>
-        <div class="bg-white p-6 rounded-lg shadow">
-          <div class="text-4xl mb-3">🎓</div>
-          <h4 class="text-xl font-bold mb-2">Step 4</h4>
-          <p>Complete your internship and receive confirmation through the portal.</p>
-        </div>
-      </div>
-    </div>
-  </section>
+ 
 
   <!-- Benefits Section -->
   <section class="py-16 px-4 bg-white">
@@ -104,10 +77,24 @@
     </div>
   </section>
 
+   <!-- FAQ Section -->
+  <section class="bg-blue-50 py-16 px-4">
+    <h3 class="text-3xl font-semibold text-center text-blue-700 mb-10">Frequently Asked Questions</h3>
+    <div class="max-w-3xl mx-auto space-y-4">
+      <details class="bg-white p-4 rounded-lg shadow">
+        <summary class="font-semibold cursor-pointer">When is the submission deadline?</summary>
+        <p class="mt-2 text-gray-700">The submission deadline is 30th November 2025.</p>
+      </details>
+      <details class="bg-white p-4 rounded-lg shadow">
+        <summary class="font-semibold cursor-pointer">Can I edit my submission later?</summary>
+        <p class="mt-2 text-gray-700">Yes, you can log in to edit your internship details anytime before the deadline.</p>
+      </details>
+    </div>
+  </section>
   <!-- Team / Contact Info -->
   <section class="bg-blue-50 py-16 px-4">
     <div class="max-w-4xl mx-auto text-center">
-      <h3 class="text-3xl font-semibold text-blue-700 mb-8">Meet the Team</h3>
+      <h3 class="text-3xl font-semibold text-blue-700 mb-8">Find us</h3>
       <div class="grid md:grid-cols-2 gap-8">
         <div class="bg-white p-6 rounded-lg shadow">
           <h4 class="font-bold text-xl mb-2 text-blue-700">Admin Office</h4>
